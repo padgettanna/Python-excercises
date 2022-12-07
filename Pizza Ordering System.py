@@ -1,7 +1,7 @@
 print("Welcome to Padgett Pizza Deliveries!")
-size = input("What size pizza do you want? S, M, or L ")
-add_pepperoni = input("Do you want pepperoni? Y or N ")
-extra_cheese = input("Do you want extra cheese? Y or N ")
+size = input("What size pizza would you like? S, M, or L ")
+add_pepperoni = input("Would you like some pepperoni? Y or N ")
+extra_cheese = input("Any extra cheese? Y or N ")
 
 bill = 0
 
