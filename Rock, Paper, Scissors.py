@@ -35,7 +35,7 @@ elif choice == 1:
 elif choice == 2:
   print(scissors)
 else:
-  print("Error")
+  print("Invalid number. You loose.")
 
 computers_choise = random.choice([rock, paper, scissors])
 print("Computer chose:\n" + computers_choise)
